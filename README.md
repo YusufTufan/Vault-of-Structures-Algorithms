@@ -8,7 +8,7 @@ Bu depo, **veri yapıları ve algoritmalar** hakkında geniş kapsamlı bir bilg
 - Sorting, Searching, Dynamic Programming gibi algoritmalar  
 
 ## 🔥 Neden Önemli?  
-✅ **Verimli Kod Yazma** → Algoritmaların temel prensiplerini öğrenmek  
+✅ **Verimli Kod Yazma** → Algoritmaların temel prensiplerini öğrenmek   
 ✅ **Problemleri Çözme** → Yapıları ve mantıksal akışı kavramak  
 ✅ **Bilgisayar Biliminin Temeli** → En çok kullanılan teknikleri keşfetmek  
 
